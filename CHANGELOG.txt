@@ -1,0 +1,21 @@
+Type Dojo Changelog
+
+-- v(0.1.1)
+	+ Added transitions
+		+ transition1 gameMode, which transitions from title screen to mode select screen
+		+ transition2 gameMode, which transitions from mode select screen
+	+ Added various comments for clarification, not all completed yet.
+	+ Added Shuriken Icon and GIF for future use, currently not utilized
+
+-- v(0.1.0) INITIAL BUILD
+	+ Added Title Screen
+		* Added fading "Press any button to start" tab
+	+ Added Menu Screen
+		* No functionality, but it will react to the mouse's position
+	+ Added various Fonts
+		* Kamikaze (4 variants, free for commercial and personal use)
+			> https://www.1001fonts.com/kamikaze-font.html#license
+		* Korean Caligraphy (1 variant, 100% free for any use)
+			> https://www.dafont.com/korean-calligraphy.font
+
+End of Log
