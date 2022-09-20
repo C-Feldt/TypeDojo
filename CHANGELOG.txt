@@ -1,13 +1,14 @@
 Type Dojo Changelog
+(6 hours total)
 
--- v(0.1.1)
+-- v(0.1.1) (2h)
 	+ Added transitions
 		+ transition1 gameMode, which transitions from title screen to mode select screen
 		+ transition2 gameMode, which transitions from mode select screen
 	+ Added various comments for clarification, not all completed yet.
 	+ Added Shuriken Icon and GIF for future use, currently not utilized
 
--- v(0.1.0) INITIAL BUILD
+-- v(0.1.0) (4h) INITIAL BUILD
 	+ Added Title Screen
 		* Added fading "Press any button to start" tab
 	+ Added Menu Screen
